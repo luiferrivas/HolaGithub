@@ -9,14 +9,22 @@ using Microsoft.Extensions.Logging;
 
 namespace WebMartes
 {
+<<<<<<< HEAD
     public class Program //Cambio en ramal sprint2
+=======
+    public class Program //Sprint2 cambio conflictivo
+>>>>>>> sprint2
     {
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
         }
 
+<<<<<<< HEAD
         //Otro cambio en ramal sprint2
+=======
+//Sprint2 cambio conflictivo
+>>>>>>> sprint2
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
