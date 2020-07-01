@@ -9,14 +9,14 @@ using Microsoft.Extensions.Logging;
 
 namespace WebMartes
 {
-    public class Program //Cambio en ramal sprint2
+    public class Program //Cambio en ramal master
     {
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
         }
 
-        //Otro cambio en ramal sprint2
+        //Otro cambio en ramal master
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
