@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nFDlN6x5fi0HnX7V7PbH49/FTgtsAbJsq79vTxTw0lfHLS1C9y8gGAhuWBbZabrqMTGIE8yS67Nne17XuULpMw==",
+  "success": true,
+  "projectFilePath": "C:\\gittest\\WebMartes\\WebMartes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lrivas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
